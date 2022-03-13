@@ -47,7 +47,7 @@ export default function EmailContents(props) {
                                 </td>
                             </tr>
                         ))
-                    })
+                    }
                 </tbody>
             </Table>
         </>
